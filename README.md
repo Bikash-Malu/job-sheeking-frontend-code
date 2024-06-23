@@ -35,6 +35,6 @@ Job Seeking is a web application designed to help users search and apply for job
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Bikash-Malu/job-seeking.git
+git clone https://github.com/Bikash-Malu/job-sheeking-frontend-code
 cd job-seeking
 npm install
